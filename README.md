@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jai Reid</h1>
 <h3 align="center">A passionate frontend developer from Texas</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Typescript**
 
 - 👯 I’m looking to collaborate on **fun open source projects**
 
