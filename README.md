@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **keyboards**
 
 - 📫 How to reach me **jaiwilliamsreid@gmail.com**
 
