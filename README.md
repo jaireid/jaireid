@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jai Reid</h1>
 <h3 align="center">A frontend developer and keyboard enthusiast from Texas</h3>
 
-- 👀 I’m interested in **Web development**
+- 👀 I’m interested in **Web Development**
 
 - 🔭 I’m currently working on project **Keylist**
 
