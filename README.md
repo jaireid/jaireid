@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jai Reid</h1>
 <h3 align="center">A frontend developer and keyboard enthusiast from Texas</h3>
 
-- 🔭 I’m currently working on **AffordU**
+- 👀 I’m interested in **Web development**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🔭 I’m currently working on project **Keylist**
 
 - 📫 You can reach me at **jaiwilliamsreid@gmail.com**
 
