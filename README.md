@@ -1,13 +1,13 @@
 <h1 align="center">Howdy 👋, I'm Jai Reid</h1>
 <h3 align="center">A frontend developer from Texas!</h3>
 
-<h3 align="left">I’m interested in:</h3>
+<h3 align="left">A bit about me:</h3>
 
 <ul>
   <li>I enjoy web development.</li>
   <li>I'm currently learning Next.js.</li>
   <li>My goal is to contribute to Open Source projects.</li>
-  <li>A bit about me: I love gaming and building keyboards.</li>
+  <li>I like to game and build keyboards.</li>
 </ul>
 
 <h3 align="left">How to reach me:</h3>
