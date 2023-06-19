@@ -1,5 +1,5 @@
 <h1 align="center">Howdy 👋, I'm Jai Reid</h1>
-<h2 align="center">A frontend developer from Texas!</h2>
+<h3 align="center">A frontend developer from Texas!</h3>
 
 <h3 align="left">I’m interested in:</h3>
 
