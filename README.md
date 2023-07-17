@@ -4,10 +4,10 @@
 <h3 align="left">A bit about me:</h3>
 
 <ul>
-  <li>I enjoy web development.</li>
-  <li>I'm currently learning Next.js.</li>
-  <li>My goal is to contribute to Open Source projects.</li>
-  <li>I like to game and build keyboards.</li>
+  <li>I enjoy web development</li>
+  <li>I'm currently learning Next.js</li>
+  <li>My goal is to contribute to Open Source projects</li>
+  <li>I like to game and build keyboards</li>
 </ul>
 
 <h3 align="left">How to reach me:</h3>
