@@ -13,7 +13,7 @@
 <h3 align="left">How to reach me:</h3>
 
 <ul>
-  <li>Please Email me at: ***jaiwilliamsreid@gmail.com***</li>
+  <li>Please Email me at: <a href="mailto:jaiwilliamsreid@gmail.com">jaiwilliamsreid@gmail.com</a>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
