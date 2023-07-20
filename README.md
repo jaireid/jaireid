@@ -6,7 +6,7 @@
 <ul>
   <li>I enjoy web development</li>
   <li>I'm currently learning Next.js</li>
-  <li>My goal is to contribute to Open Source projects</li>
+  <li>My goal is to contribute to open-source projects</li>
   <li>I like to build keyboards</li>
 </ul>
 
