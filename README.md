@@ -1,5 +1,4 @@
 <h1 align="center">Howdy 👋, I'm Jai Williams Reid</h1>
-<h3 align="center">A software developer from Texas!</h3>
 
 <h3 align="left">A bit about me:</h3>
 
