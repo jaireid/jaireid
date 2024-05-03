@@ -5,7 +5,6 @@
 <ul>
   <li>I enjoy data analytics and web development</li>
   <li>My goal is to contribute to open-source projects</li>
-  <li>I also like to build keyboards</li>
 </ul>
 
 <h3 align="left">How to reach me:</h3>
